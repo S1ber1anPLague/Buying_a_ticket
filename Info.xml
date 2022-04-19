@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Trip id="0">
+    <Date>25.06.2020</Date>
+    <Time>14:00</Time>
+    <Bus>0</Bus>
+    <Point>0,,14:00</Point>
+    <Point>1,14:30,14:45</Point>
+    <Point>2,15:30,15:45</Point>
+    <Point>3,16:20,16:40</Point>
+    <Point>4,19:00,</Point>
+    <Driver>0</Driver>
+    <TripLocations>15</TripLocations>
+  </Trip>
+  <Trip id="1">
+    <Date>31.05.2020</Date>
+    <Time>8:00</Time>
+    <Bus>1</Bus>
+    <Point>5,,8:00</Point>
+    <Point>6,9:00,9:30</Point>
+    <Point>7,11:00,11:30</Point>
+    <Point>8,13:45,14:00</Point>
+    <Point>9,16:00,</Point>
+    <Driver>1</Driver>
+    <TripLocations>16</TripLocations>
+  </Trip>
+  <Trip id="2">
+    <Date>12.07.2020</Date>
+    <Time>19:00</Time>
+    <Bus>2</Bus>
+    <Point>10,,19:00</Point>
+    <Point>11,20:00,20:15</Point>
+    <Point>12,21:00,21:30</Point>
+    <Point>13,22:30,23:00</Point>
+    <Point>14,00:00,</Point>
+    <Driver>2</Driver>
+    <TripLocations>17</TripLocations>
+  </Trip>
+  <Driver id="0">
+    <Fio>Непейпиво Алексей Павлович</Fio>
+  </Driver>
+  <Driver id="1">
+    <Fio>Гедонестический Илья Викторович</Fio>
+  </Driver>
+  <Driver id="2">
+    <Fio>Каспарян Дмитрий Иванович</Fio>
+  </Driver>
+  <Autobus id="0">
+    <BusNumber>666</BusNumber>
+  </Autobus>
+  <Autobus id="1">
+    <BusNumber>1488</BusNumber>
+  </Autobus>
+  <Autobus id="2">
+    <BusNumber>228</BusNumber>
+  </Autobus>
+  <Points>
+    <Point>
+      <id>0</id>
+      <Name>Фрязино</Name>
+    </Point>
+    <Point>
+      <id>1</id>
+      <Name>Стопкино</Name>
+    </Point>
+    <Point>
+      <id>2</id>
+      <Name>Родник</Name>
+    </Point>
+    <Point>
+      <id>3</id>
+      <Name>Водкино</Name>
+    </Point>
+    <Point>
+      <id>4</id>
+      <Name>Верхние Гниловки</Name>
+    </Point>
+    <Point>
+      <id>5</id>
+      <Name>Ротовск</Name>
+    </Point>
+    <Point>
+      <id>6</id>
+      <Name>Гортаньевск</Name>
+    </Point>
+    <Point>
+      <id>7</id>
+      <Name>Желудинск</Name>
+    </Point>
+    <Point>
+      <id>8</id>
+      <Name>Кишечный</Name>
+    </Point>
+    <Point>
+      <id>9</id>
+      <Name>Клоакино</Name>
+    </Point>
+    <Point>
+      <id>10</id>
+      <Name>Затупкино</Name>
+    </Point>
+    <Point>
+      <id>11</id>
+      <Name>Студенческий</Name>
+    </Point>
+    <Point>
+      <id>12</id>
+      <Name>Джуниорский</Name>
+    </Point>
+    <Point>
+      <id>13</id>
+      <Name>Миддловодск</Name>
+    </Point>
+    <Point>
+      <id>14</id>
+      <Name>Сеньоровск</Name>
+    </Point>
+    <Point>
+      <id>15</id>
+      <Name>Фрязино-Верхние гниловки</Name>
+      <Status>true</Status>
+    </Point>
+    <Point>
+      <Name>Ротовск-Клоакино</Name>
+      <Status>true</Status>
+      <id>16</id>
+    </Point>
+    <Point>
+      <Name>Затупкино-Сеньоровск</Name>
+      <Status>true</Status>
+      <id>17</id>
+    </Point>
+  </Points>
+  <Tickets>
+    <Ticket>
+      <id>1</id>
+      <Fio>Толстопятко Андрей Геннадьевич</Fio>
+      <Date>31.05.1999</Date>
+      <Trip>1</Trip>
+      <StartPoint>5</StartPoint>
+      <FinishPoint>7</FinishPoint>
+      <TripNumber>420</TripNumber>
+    </Ticket>
+    <Ticket>
+      <id>2</id>
+      <Fio>Докладников Даниил Евгеньевич</Fio>
+      <Date>12.05.2020</Date>
+      <Trip>2</Trip>
+      <StartPoint>10</StartPoint>
+      <FinishPoint>14</FinishPoint>
+      <TripNumber>430</TripNumber>
+    </Ticket>
+    <Ticket>
+      <id>3</id>
+      <Fio>Должников Евгений Дмитриевич</Fio>
+      <Date>14.09.1800</Date>
+      <Trip>1</Trip>
+      <StartPoint>5</StartPoint>
+      <FinishPoint>9</FinishPoint>
+      <TripNumber>420</TripNumber>
+    </Ticket>
+    <Ticket>
+      <id>4</id>
+      <Fio>Грязинский Пустырник Форте</Fio>
+      <Date></Date>
+      <Trip>2</Trip>
+      <StartPoint>11</StartPoint>
+      <FinishPoint>13</FinishPoint>
+      <TripNumber>430</TripNumber>
+    </Ticket>
+    <Ticket>
+      <id>5</id>
+      <Fio>Мишлен Пятизвезд Рататуев</Fio>
+      <Date></Date>
+      <Trip>1</Trip>
+      <StartPoint>5</StartPoint>
+      <FinishPoint>6</FinishPoint>
+      <TripNumber>420</TripNumber>
+    </Ticket>
+    <Ticket>
+      <id>6</id>
+      <Fio>Тунгусов Монголоид Якутович</Fio>
+      <Date>16.06.2020</Date>
+      <Trip>0</Trip>
+      <StartPoint>0</StartPoint>
+      <FinishPoint>0</FinishPoint>
+      <TripNumber>410</TripNumber>
+    </Ticket>
+  </Tickets>
+</Data>

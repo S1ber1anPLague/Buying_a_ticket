@@ -1,0 +1,12 @@
+C:\Tipa disk d\labs\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+C:\Tipa disk d\labs\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+C:\Tipa disk d\labs\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+C:\Tipa disk d\labs\Lab_10\Lab_10\obj\Debug\Lab_10.csprojResolveAssemblyReference.cache
+C:\Tipa disk d\labs\Lab_10\Lab_10\obj\Debug\Lab_10.MainForm.resources
+C:\Tipa disk d\labs\Lab_10\Lab_10\obj\Debug\Lab_10.Properties.Resources.resources
+C:\Tipa disk d\labs\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.GenerateResource.Cache
+C:\Tipa disk d\labs\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+C:\Tipa disk d\labs\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
+C:\Tipa disk d\labs\Lab_10\Lab_10\bin\Debug\MetroFramework.dll
+C:\Tipa disk d\labs\Lab_10\Lab_10\bin\Debug\MetroFramework.Fonts.dll
+C:\Tipa disk d\labs\Lab_10\Lab_10\bin\Debug\MetroFramework.Design.dll
